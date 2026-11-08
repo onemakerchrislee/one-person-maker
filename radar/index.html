@@ -6,87 +6,113 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>AI 信息雷达 | 一人造物工作室</title>
 <style>
-* {
-  box-sizing: border-box;
-}
+* { box-sizing: border-box; }
+
 body {
   margin: 0;
   background: #101114;
   color: #f5f5f5;
   font-family: Arial, "Microsoft YaHei", sans-serif;
 }
+
 header {
   padding: 24px 8%;
   border-bottom: 1px solid #333;
 }
+
 header a {
   color: #aaa;
   text-decoration: none;
 }
+
 main {
   max-width: 1000px;
   margin: auto;
   padding: 70px 24px;
 }
+
 .tag {
   color: #aaa;
   letter-spacing: 4px;
   font-size: 12px;
 }
+
 h1 {
   font-size: 42px;
   margin: 22px 0;
 }
+
 .intro {
   color: #999;
   line-height: 1.9;
   font-size: 17px;
 }
+
 .date {
   color: #777;
   margin: 35px 0;
   font-size: 14px;
 }
+
 .section-title {
   margin-top: 55px;
   padding-bottom: 16px;
   border-bottom: 1px solid #333;
   font-size: 23px;
 }
+
 .item {
   padding: 22px 0;
   border-bottom: 1px solid #292929;
 }
+
 .item h3 {
   font-size: 18px;
   margin: 0 0 10px;
+  line-height: 1.6;
 }
+
+.item h3 a {
+  color: #eee;
+  text-decoration: none;
+}
+
+.item h3 a:hover {
+  color: #8ab4ff;
+}
+
 .item p {
   color: #999;
   line-height: 1.7;
   margin: 0;
 }
+
 .label {
   color: #aaa;
   font-size: 12px;
   margin-bottom: 10px;
 }
+
+.status {
+  color: #888;
+  padding: 24px 0;
+  line-height: 1.8;
+}
+
 footer {
   padding: 35px;
   text-align: center;
   color: #666;
   border-top: 1px solid #333;
 }
+
 @media (max-width: 650px) {
-  h1 {
-    font-size: 32px;
-  }
-  main {
-    padding-top: 50px;
-  }
+  h1 { font-size: 32px; }
+  main { padding-top: 50px; }
 }
 </style>
 </head>
+
 <body>
 
 <header>
@@ -105,32 +131,8 @@ footer {
 
   <div class="date" id="today"></div>
 
-  <h2 class="section-title">01 / AI 行业头条</h2>
-  <div class="item">
-    <div class="label">示例内容 · 等待接入信息源</div>
-    <h3>这里将展示值得关注的 AI 行业新闻</h3>
-    <p>未来自动收集行业重要动态，并提炼核心信息。</p>
-  </div>
-
-  <h2 class="section-title">02 / 新工具发现</h2>
-  <div class="item">
-    <div class="label">示例内容 · 等待接入信息源</div>
-    <h3>这里将展示近期值得尝试的 AI 工具</h3>
-    <p>自动发现新工具，整理用途、特点和使用场景。</p>
-  </div>
-
-  <h2 class="section-title">03 / 技术观察</h2>
-  <div class="item">
-    <div class="label">示例内容 · 等待接入信息源</div>
-    <h3>这里将展示值得关注的技术进展</h3>
-    <p>跟踪模型、智能体、自动化和开源项目的发展。</p>
-  </div>
-
-  <h2 class="section-title">04 / 商业机会</h2>
-  <div class="item">
-    <div class="label">示例内容 · 等待接入信息源</div>
-    <h3>这里将展示 AI 带来的新机会</h3>
-    <p>关注可以落地的产品方向、创业思路和应用场景。</p>
+  <div id="news-container">
+    <p class="status">正在获取最新 AI 情报...</p>
   </div>
 </main>
 
@@ -141,6 +143,101 @@ footer {
 <script>
 document.getElementById("today").textContent =
   "页面日期：" + new Date().toLocaleDateString("zh-CN");
+
+async function loadNews() {
+  const container = document.getElementById("news-container");
+
+  try {
+    const response = await fetch("./news.json?t=" + Date.now());
+
+    if (!response.ok) {
+      throw new Error("新闻数据读取失败，状态码：" + response.status);
+    }
+
+    const news = await response.json();
+
+    if (!Array.isArray(news) || news.length === 0) {
+      container.innerHTML =
+        '<p class="status">暂时没有获取到新闻，请等待下一次自动更新。</p>';
+      return;
+    }
+
+    const sections = [
+      { title: "01 / AI 行业头条", keyword: "行业" },
+      { title: "02 / 新工具发现", keyword: "工具" },
+      { title: "03 / 技术观察", keyword: "技术" },
+      { title: "04 / 商业机会", keyword: "商业" }
+    ];
+
+    let html = "";
+
+    sections.forEach(section => {
+      html += '<h2 class="section-title">' + section.title + '</h2>';
+      html += '<div class="news-list">';
+
+      news.forEach(item => {
+        const source = escapeHTML(item.source || "未知来源");
+        const title = escapeHTML(item.title || "无标题");
+        const summary = escapeHTML(item.summary || "暂无摘要");
+        const link = safeURL(item.link);
+        const published = escapeHTML(item.published || "");
+
+        if (!link) return;
+
+        html += `
+          <article class="item">
+            <div class="label">${source}${published ? " · " + published : ""}</div>
+            <h3>
+              <a href="${link}" target="_blank" rel="noopener noreferrer">
+                ${title}
+              </a>
+            </h3>
+            <p>${summary}</p>
+          </article>
+        `;
+      });
+
+      html += '</div>';
+    });
+
+    html = html.replace(
+      /<h2 class="section-title">0[1-4][^<]*<\/h2><div class="news-list"><\/div>/g,
+      ''
+    );
+
+    container.innerHTML = html || 
+      '<p class="status">暂时没有可展示的新闻。</p>';
+
+  } catch (error) {
+    console.error(error);
+    container.innerHTML =
+      '<p class="status">新闻加载失败：' +
+      escapeHTML(error.message) +
+      '<br>请检查 news.json 是否存在，以及数据是否有效。</p>';
+  }
+}
+
+function escapeHTML(value) {
+  return String(value).replace(/[&<>"']/g, char => ({
+    "&": "&amp;",
+    "<": "&lt;",
+    ">": "&gt;",
+    '"': "&quot;",
+    "'": "&#39;"
+  })[char]);
+}
+
+function safeURL(value) {
+  try {
+    const url = new URL(value);
+    if (url.protocol === "https:" || url.protocol === "http:") {
+      return escapeHTML(url.href);
+    }
+  } catch (error) {}
+  return "";
+}
+
+loadNews();
 </script>
 
 </body>
