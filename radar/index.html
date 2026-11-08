@@ -4,241 +4,144 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<meta name="description" content="一人造物工作室 AI 信息雷达，追踪人工智能、科技与自动化动态。">
 <title>AI 信息雷达 | 一人造物工作室</title>
-
 <style>
 * {
   box-sizing: border-box;
 }
-
 body {
   margin: 0;
   background: #101114;
   color: #f5f5f5;
   font-family: Arial, "Microsoft YaHei", sans-serif;
 }
-
-a {
-  color: inherit;
+header {
+  padding: 24px 8%;
+  border-bottom: 1px solid #333;
+}
+header a {
+  color: #aaa;
   text-decoration: none;
 }
-
-header {
-  padding: 22px 7%;
-  border-bottom: 1px solid #333;
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-
-.logo {
-  font-size: 19px;
-  font-weight: bold;
-}
-
-.back {
-  color: #aaa;
-  font-size: 13px;
-}
-
-.container {
-  max-width: 1050px;
+main {
+  max-width: 1000px;
   margin: auto;
-  padding: 65px 7%;
+  padding: 70px 24px;
 }
-
 .tag {
   color: #aaa;
   letter-spacing: 4px;
   font-size: 12px;
 }
-
 h1 {
   font-size: 42px;
-  margin: 22px 0 12px;
+  margin: 22px 0;
 }
-
-.subtitle {
+.intro {
   color: #999;
-  font-size: 16px;
-  line-height: 1.8;
+  line-height: 1.9;
+  font-size: 17px;
 }
-
-.status {
-  margin-top: 30px;
-  padding: 15px 18px;
-  border: 1px solid #333;
-  color: #aaa;
-  font-size: 13px;
+.date {
+  color: #777;
+  margin: 35px 0;
+  font-size: 14px;
 }
-
-.status span {
-  color: #8bc9a2;
-}
-
-.section {
-  margin-top: 65px;
-}
-
 .section-title {
-  font-size: 23px;
-  padding-bottom: 18px;
+  margin-top: 55px;
+  padding-bottom: 16px;
   border-bottom: 1px solid #333;
-  margin-bottom: 25px;
+  font-size: 23px;
 }
-
-.category {
-  display: inline-block;
-  padding: 7px 12px;
-  border: 1px solid #444;
-  color: #bbb;
-  font-size: 12px;
-  margin: 0 7px 10px 0;
-}
-
-.news {
+.item {
+  padding: 22px 0;
   border-bottom: 1px solid #292929;
-  padding: 23px 0;
 }
-
-.news-type {
-  color: #8bc9a2;
-  font-size: 12px;
-}
-
-.news h3 {
+.item h3 {
   font-size: 18px;
-  margin: 12px 0;
+  margin: 0 0 10px;
 }
-
-.news p {
+.item p {
   color: #999;
-  line-height: 1.8;
-  font-size: 14px;
+  line-height: 1.7;
+  margin: 0;
 }
-
-.news small {
-  color: #666;
+.label {
+  color: #aaa;
+  font-size: 12px;
+  margin-bottom: 10px;
 }
-
-.empty {
-  padding: 30px 0;
-  color: #888;
-  line-height: 1.8;
-  font-size: 14px;
-}
-
 footer {
-  border-top: 1px solid #333;
-  padding: 35px 7%;
+  padding: 35px;
   text-align: center;
   color: #666;
-  font-size: 13px;
+  border-top: 1px solid #333;
 }
-
 @media (max-width: 650px) {
-  header {
-    padding: 20px 6%;
-  }
-
-  .logo {
-    font-size: 16px;
-  }
-
-  .container {
-    padding: 48px 6%;
-  }
-
   h1 {
-    font-size: 34px;
+    font-size: 32px;
   }
-
-  .section {
-    margin-top: 48px;
-  }
-
-  .news h3 {
-    font-size: 17px;
-    line-height: 1.6;
+  main {
+    padding-top: 50px;
   }
 }
 </style>
 </head>
-
 <body>
 
 <header>
-  <div class="logo">一人造物工作室.</div>
-  <a class="back" href="../index.html">返回首页 ↗</a>
+  <a href="../index.html">← 返回一人造物工作室</a>
 </header>
 
-<main class="container">
-
-  <div class="tag">ONE PERSON MAKER STUDIO</div>
+<main>
+  <div class="tag">ONE PERSON MAKER STUDIO / RADAR</div>
 
   <h1>AI 信息雷达</h1>
 
-  <p class="subtitle">
-    发现值得关注的信息。<br>
-    追踪人工智能、科技与自动化的最新动态。
+  <p class="intro">
+    捕捉人工智能领域的重要变化。<br>
+    追踪新工具、新技术、新趋势与商业机会。
   </p>
 
-  <div class="status">
-    <span>● 系统已建立</span>
-    &nbsp; V1.0 信息雷达
-    <br><br>
-    当前展示为页面演示内容，自动采集功能正在开发中。
+  <div class="date" id="today"></div>
+
+  <h2 class="section-title">01 / AI 行业头条</h2>
+  <div class="item">
+    <div class="label">示例内容 · 等待接入信息源</div>
+    <h3>这里将展示值得关注的 AI 行业新闻</h3>
+    <p>未来自动收集行业重要动态，并提炼核心信息。</p>
   </div>
 
-  <section class="section">
-    <h2 class="section-title">信息导航</h2>
+  <h2 class="section-title">02 / 新工具发现</h2>
+  <div class="item">
+    <div class="label">示例内容 · 等待接入信息源</div>
+    <h3>这里将展示近期值得尝试的 AI 工具</h3>
+    <p>自动发现新工具，整理用途、特点和使用场景。</p>
+  </div>
 
-    <span class="category">全部资讯</span>
-    <span class="category">AI 动态</span>
-    <span class="category">AI 工具</span>
-    <span class="category">技术观察</span>
-    <span class="category">商业机会</span>
-  </section>
+  <h2 class="section-title">03 / 技术观察</h2>
+  <div class="item">
+    <div class="label">示例内容 · 等待接入信息源</div>
+    <h3>这里将展示值得关注的技术进展</h3>
+    <p>跟踪模型、智能体、自动化和开源项目的发展。</p>
+  </div>
 
-  <section class="section">
-    <h2 class="section-title">今日 AI 头条</h2>
-
-    <div class="empty">
-      信息采集系统尚未接入。<br>
-      下一阶段将自动收集公开资讯，并生成中文摘要。
-    </div>
-  </section>
-
-  <section class="section">
-    <h2 class="section-title">AI 工具发现</h2>
-
-    <div class="empty">
-      这里将展示值得关注的新工具、产品和应用。
-    </div>
-  </section>
-
-  <section class="section">
-    <h2 class="section-title">技术观察</h2>
-
-    <div class="empty">
-      追踪人工智能、软件开发、智能体与自动化技术。
-    </div>
-  </section>
-
-  <section class="section">
-    <h2 class="section-title">每日机会</h2>
-
-    <div class="empty">
-      从新技术和新产品中，发现值得普通人尝试的机会。
-    </div>
-  </section>
-
+  <h2 class="section-title">04 / 商业机会</h2>
+  <div class="item">
+    <div class="label">示例内容 · 等待接入信息源</div>
+    <h3>这里将展示 AI 带来的新机会</h3>
+    <p>关注可以落地的产品方向、创业思路和应用场景。</p>
+  </div>
 </main>
 
 <footer>
   © 2026 一人造物工作室 · AI 信息雷达
 </footer>
+
+<script>
+document.getElementById("today").textContent =
+  "页面日期：" + new Date().toLocaleDateString("zh-CN");
+</script>
 
 </body>
 </html>
