@@ -5,12 +5,10 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <meta name="description" content="一人造物工作室，每日 AI 新闻与前沿技术情报。">
-<title>Daily AI Radar | 一人造物工作室</title>
+<title>一人造物工作室 | Daily AI Radar</title>
 
 <style>
-* {
-  box-sizing: border-box;
-}
+* { box-sizing: border-box; }
 
 body {
   margin: 0;
@@ -182,6 +180,32 @@ h1 {
   line-height: 1.8;
 }
 
+.project a {
+  color: #aaa;
+  text-decoration: none;
+  display: inline-block;
+  margin-top: 5px;
+}
+
+.project a:hover {
+  color: white;
+}
+
+.radar-link {
+  display: inline-block;
+  margin-top: 25px;
+  padding: 12px 20px;
+  border: 1px solid #777;
+  border-radius: 6px;
+  color: #eee;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+
+.radar-link:hover {
+  background: #292b30;
+}
+
 footer {
   padding: 40px 8%;
   color: #777;
@@ -231,20 +255,14 @@ footer {
     探索人工智能、软件开发、自动化与数字产品。
   </p>
 
-  <!-- Daily AI Radar -->
-
   <section class="section">
 
     <div class="section-title">
       <h2>Daily AI Radar</h2>
-      <button class="refresh" id="refreshBtn">
-        ↻ 刷新新闻
-      </button>
+      <button class="refresh" id="refreshBtn">↻ 刷新新闻</button>
     </div>
 
-    <div class="status" id="status">
-      正在获取最新 AI 情报...
-    </div>
+    <div class="status" id="status">正在获取最新 AI 情报...</div>
 
     <div class="filters">
       <button class="filter active" data-source="全部">全部</button>
@@ -257,9 +275,11 @@ footer {
       <div class="empty">新闻加载中...</div>
     </div>
 
-  </section>
+    <a class="radar-link" href="./radar/">
+      进入 AI 信息雷达完整页面 →
+    </a>
 
-  <!-- Projects -->
+  </section>
 
   <section class="projects">
 
@@ -289,37 +309,12 @@ footer {
 </footer>
 
 <script>
-
 let allNews = [];
 let currentSource = "全部";
 
 const newsList = document.getElementById("newsList");
 const status = document.getElementById("status");
+const refreshBtn = document.getElementById("refreshBtn");
 
-function formatDate(dateString) {
-  if (!dateString) return "时间未知";
-
-  const date = new Date(dateString);
-
-  if (isNaN(date.getTime())) {
-    return dateString;
-  }
-
-  return date.toLocaleString("zh-CN", {
-    year: "numeric",
-    month: "2-digit",
-    day: "2-digit",
-    hour: "2-digit",
-    minute: "2-digit"
-  });
-}
-
-function renderNews() {
-
-  const filteredNews = currentSource === "全部"
-    ? allNews
-    : allNews.filter(item => item.source === currentSource);
-
-  newsList.innerHTML = "";
-
-  if 
+function escapeHTML(value) {
+  return String(value).replace
