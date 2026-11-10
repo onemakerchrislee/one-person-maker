@@ -36,31 +36,10 @@
   },
   {
     "source": "OpenAI",
-    "title": "A thousand fewer paths to root",
-    "summary": "OpenAI built an autonomous pipeline that found, validated, and generated patches for 948 local privilege-escalation vulnerabilities in the Linux kernel.",
-    "link": "https://openai.com/index/a-thousand-fewer-paths-to-root",
-    "published": "Wed, 04 Nov 2026 08:00:00 GMT"
-  },
-  {
-    "source": "OpenAI",
     "title": "Daybreak Red is now available in AWS GovCloud (US-East)",
     "summary": "Daybreak Red brings GPT-5.6 Cyber to approved customers in AWS GovCloud (US-East) through Amazon Bedrock for authorized cybersecurity work.",
     "link": "https://openai.com/index/daybreak-red-aws-govcloud",
     "published": "Wed, 04 Nov 2026 07:00:00 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing Images 2.6",
-    "summary": "Images 2.6 brings faster image generation, GIF creation, more precise editing, and new API controls across ChatGPT, Codex, and the API.",
-    "link": "https://openai.com/index/introducing-images-2-6",
-    "published": "Wed, 04 Nov 2026 00:00:00 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "DevRev delivers autonomous self-service with GPT-6.1 Sol",
-    "summary": "DevRev uses GPT-6.1 Sol to power Computer and Operator, balancing reasoning, speed, and cost for enterprise service.",
-    "link": "https://openai.com/index/devrev-enterprise-self-service",
-    "published": "Wed, 04 Nov 2026 00:00:00 GMT"
   },
   {
     "source": "Hugging Face",
@@ -105,13 +84,6 @@
     "published": "Tue, 03 Nov 2026 16:35:36 GMT"
   },
   {
-    "source": "OpenAI",
-    "title": "Accelerating engineering for the physical world",
-    "summary": "Discover how ChatGPT and Codex are helping engineers accelerate CAD, PCB design, simulation, and other workflows across the physical world.",
-    "link": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-    "published": "Tue, 03 Nov 2026 12:00:00 GMT"
-  },
-  {
     "source": "Hugging Face",
     "title": "CWE-bench v2: More coverage, quality, and transparency",
     "summary": "",
@@ -154,13 +126,6 @@
     "published": "Thu, 29 Oct 2026 00:00:00 GMT"
   },
   {
-    "source": "Hugging Face",
-    "title": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-    "summary": "",
-    "link": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-    "published": "Thu, 22 Oct 2026 22:24:34 GMT"
-  },
-  {
     "source": "Google AI",
     "title": "Making global data easier to explore",
     "summary": "UN System Data Commons Data webpage",
@@ -173,13 +138,6 @@
     "summary": "Cult.fit is using Codex to help teams across functions build tools, move faster, and change how work gets done.",
     "link": "https://openai.com/index/cultfit-builds-with-codex",
     "published": "Thu, 05 Nov 2026 20:00:00 GMT"
-  },
-  {
-    "source": "Hugging Face",
-    "title": "New NVIDIA Cosmos 3 Open Models for Interactive World Simulation",
-    "summary": "",
-    "link": "https://huggingface.co/blog/nvidia/cosmos-interactive-world-simulation",
-    "published": "Thu, 05 Nov 2026 19:35:16 GMT"
   },
   {
     "source": "OpenAI",
@@ -250,6 +208,48 @@
     "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
     "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
     "published": "Mon, 26 Oct 2026 16:00:00 +0000"
+  },
+  {
+    "source": "OpenAI",
+    "title": "ChatGPT Enterprise now available in AWS Marketplace",
+    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
+    "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
+    "published": "Mon, 09 Nov 2026 19:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face",
+    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
+    "summary": "",
+    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
+    "published": "Mon, 09 Nov 2026 15:05:57 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
+    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
+    "link": "https://openai.com/index/control-room",
+    "published": "Mon, 09 Nov 2026 13:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face",
+    "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
+    "summary": "",
+    "link": "https://huggingface.co/blog/amazon/higher-order-pruning-experts",
+    "published": "Mon, 09 Nov 2026 12:34:29 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "CodeRabbit scales agentic software development and ships 20x more",
+    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
+    "link": "https://openai.com/index/coderabbit-codex-daybreak",
+    "published": "Mon, 09 Nov 2026 08:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Kuken Industries searches 70 years of drawings in minutes",
+    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
+    "link": "https://openai.com/index/kuken",
+    "published": "Mon, 09 Nov 2026 08:00:00 GMT"
   },
   {
     "source": "Google AI",
