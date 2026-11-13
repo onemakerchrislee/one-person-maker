@@ -1,13 +1,6 @@
 [
   {
     "source": "Google AI",
-    "title": "Google Beam expands with new regions, partners, and customers",
-    "summary": "Google Beam promotional animation",
-    "link": "https://blog.google/innovation-and-ai/technology/research/google-beam-expansion/",
-    "published": "Wed, 23 Sep 2026 18:00:00 +0000"
-  },
-  {
-    "source": "Google AI",
     "title": "Southeast Asia’s digital economy to hit $368 billion",
     "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
     "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
@@ -182,24 +175,59 @@
     "published": "Tue, 03 Nov 2026 00:00:00 GMT"
   },
   {
-    "source": "Hugging Face",
-    "title": "Granite Switch 4.1.1 — Update models like you update software",
-    "summary": "",
-    "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
-    "published": "Thu, 29 Oct 2026 13:37:07 GMT"
+    "source": "OpenAI",
+    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
+    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
+    "link": "https://openai.com/business/customer-stories/amplitude",
+    "published": "Thu, 12 Nov 2026 20:00:00 GMT"
   },
   {
     "source": "Hugging Face",
-    "title": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
     "summary": "",
-    "link": "https://huggingface.co/blog/announcing-project-protostar",
-    "published": "Thu, 29 Oct 2026 00:00:00 GMT"
+    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
+    "published": "Thu, 12 Nov 2026 19:07:35 GMT"
+  },
+  {
+    "source": "Google AI",
+    "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
+    "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
+    "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
+    "published": "Thu, 12 Nov 2026 18:00:00 +0000"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Gondola doubles revenue as its team builds more with Codex",
+    "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
+    "link": "https://openai.com/business/customer-stories/gondola",
+    "published": "Thu, 12 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Holiday Extras is rethinking what it can build with Codex",
+    "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
+    "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
+    "published": "Thu, 12 Nov 2026 09:30:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Supporting research on AI and children’s safety",
+    "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
+    "link": "https://openai.com/index/children-first-declaration",
+    "published": "Thu, 12 Nov 2026 00:00:00 GMT"
   },
   {
     "source": "OpenAI",
     "title": "Gilbert + Tobin rethinks the business of law with AI",
     "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
     "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
+    "published": "Thu, 12 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face",
+    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
+    "summary": "",
+    "link": "https://huggingface.co/blog/3d-lora-finetuning",
     "published": "Thu, 12 Nov 2026 00:00:00 GMT"
   },
   {
@@ -259,20 +287,6 @@
     "published": "Mon, 09 Nov 2026 12:34:29 GMT"
   },
   {
-    "source": "OpenAI",
-    "title": "CodeRabbit scales agentic software development and ships 20x more",
-    "summary": "CodeRabbit uses OpenAI models to govern and trust AI-generated code and Codex to ship 20 times more software with the same engineering team.",
-    "link": "https://openai.com/index/coderabbit-codex-daybreak",
-    "published": "Mon, 09 Nov 2026 08:00:00 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Kuken Industries searches 70 years of drawings in minutes",
-    "summary": "Kuken Industries uses the OpenAI API to search 70 years of cooling tower drawings. Engineers can find the drawing for a repair in 4.5 minutes, down from nearly an hour.",
-    "link": "https://openai.com/index/kuken",
-    "published": "Mon, 09 Nov 2026 08:00:00 GMT"
-  },
-  {
     "source": "Google AI",
     "title": "The latest AI news we announced in October 2026",
     "summary": "Animated carousel of images from AI posts in October",
@@ -285,20 +299,6 @@
     "summary": "",
     "link": "https://huggingface.co/blog/allenai/toyblocks",
     "published": "Fri, 06 Nov 2026 14:00:48 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Partnering with Hacktron to find vulnerabilities in OpenAI’s systems",
-    "summary": "OpenAI is partnering with Hacktron to find vulnerabilities, test connections with third-party services, and strengthen defenses with frontier AI.",
-    "link": "https://openai.com/index/partnering-with-hacktron",
-    "published": "Fri, 06 Nov 2026 08:00:00 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Measuring how AI agents handle everyday wet-lab science",
-    "summary": "OpenAI introduces BioBasicsBench, a 100-task benchmark measuring how well AI agents interpret raw experimental data and handle everyday wet-lab science.",
-    "link": "https://openai.com/index/measuring-how-ai-agents-handle-wet-lab-science",
-    "published": "Fri, 06 Nov 2026 00:00:00 GMT"
   },
   {
     "source": "Hugging Face",
