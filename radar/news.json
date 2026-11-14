@@ -168,13 +168,6 @@
     "published": "Tue, 03 Nov 2026 00:00:00 GMT"
   },
   {
-    "source": "Hugging Face",
-    "title": "Transformers Model Integration Contracts",
-    "summary": "",
-    "link": "https://huggingface.co/blog/transformers-mic",
-    "published": "Tue, 03 Nov 2026 00:00:00 GMT"
-  },
-  {
     "source": "OpenAI",
     "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
     "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
@@ -259,27 +252,6 @@
     "published": "Mon, 26 Oct 2026 16:00:00 +0000"
   },
   {
-    "source": "OpenAI",
-    "title": "ChatGPT Enterprise now available in AWS Marketplace",
-    "summary": "ChatGPT Enterprise is now available through AWS Marketplace, helping organizations simplify procurement through existing AWS purchasing and billing relationships.",
-    "link": "https://openai.com/index/chatgpt-enterprise-aws-marketplace",
-    "published": "Mon, 09 Nov 2026 19:00:00 GMT"
-  },
-  {
-    "source": "Hugging Face",
-    "title": "Nemotron-Personas-Finance-Japan: A Synthetic Dataset Capturing Japan's Demographics and Financial Context",
-    "summary": "",
-    "link": "https://huggingface.co/blog/nvidia/nemotron-personas-finance-japan",
-    "published": "Mon, 09 Nov 2026 15:05:57 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Control Room: A central system to track and stop model workloads across our research infrastructure",
-    "summary": "Learn how OpenAI’s Control Room tracks model workloads across our research infrastructure and can rapidly stop them when safety or security concerns arise.",
-    "link": "https://openai.com/index/control-room",
-    "published": "Mon, 09 Nov 2026 13:00:00 GMT"
-  },
-  {
     "source": "Hugging Face",
     "title": "Your Experts Have Partners. There's HOPE for Keeping Them Together",
     "summary": "",
@@ -295,10 +267,38 @@
   },
   {
     "source": "Hugging Face",
-    "title": "ToyBlocks: A controlled world for robot learning and evaluation",
+    "title": "Build a Robot Pick-and-Place Simulation with SimReady Assets",
     "summary": "",
-    "link": "https://huggingface.co/blog/allenai/toyblocks",
-    "published": "Fri, 06 Nov 2026 14:00:48 GMT"
+    "link": "https://huggingface.co/blog/nvidia/simready-assets-robot-pick-and-place",
+    "published": "Fri, 13 Nov 2026 18:00:39 GMT"
+  },
+  {
+    "source": "Hugging Face",
+    "title": "XYBench: Helping with the problem behind the question",
+    "summary": "",
+    "link": "https://huggingface.co/blog/allenai/xybench",
+    "published": "Fri, 13 Nov 2026 17:02:35 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing ChatGPT Wallet",
+    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
+    "link": "https://openai.com/index/introducing-chatgpt-wallet",
+    "published": "Fri, 13 Nov 2026 15:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face",
+    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
+    "summary": "",
+    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+    "published": "Fri, 13 Nov 2026 14:05:22 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
+    "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
+    "link": "https://openai.com/business/customer-stories/shield",
+    "published": "Fri, 13 Nov 2026 08:00:00 GMT"
   },
   {
     "source": "Hugging Face",
