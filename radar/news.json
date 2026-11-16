@@ -126,20 +126,6 @@
     "published": "Tue, 10 Nov 2026 08:00:00 GMT"
   },
   {
-    "source": "OpenAI",
-    "title": "Work at the Frontier: AI’s effect on freelance work",
-    "summary": "New research from OpenAI and Upwork finds shifting demand for freelance work, new skill combinations, and larger budgets and more hours for AI-related projects.",
-    "link": "https://openai.com/index/ai-effect-on-freelance-work",
-    "published": "Tue, 10 Nov 2026 07:00:00 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Cogent and OpenAI build cyber defense factories for enterprises",
-    "summary": "Cogent combines OpenAI models with enterprise context to help automatically remediate vulnerabilities with agents.",
-    "link": "https://openai.com/index/cogent-security",
-    "published": "Tue, 10 Nov 2026 00:00:00 GMT"
-  },
-  {
     "source": "Hugging Face",
     "title": "Pay for Hugging Face Hub with your Google Cloud Account",
     "summary": "",
@@ -236,6 +222,20 @@
     "summary": "",
     "link": "https://huggingface.co/blog/phonon-tts",
     "published": "Thu, 05 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "A step toward defining the Standard Model on a lattice",
+    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
+    "link": "https://openai.com/index/step-toward-defining-the-standard-model",
+    "published": "Sun, 15 Nov 2026 22:00:01 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Our new blog for science",
+    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
+    "link": "https://openai.com/index/our-new-blog-for-science",
+    "published": "Sun, 15 Nov 2026 22:00:00 GMT"
   },
   {
     "source": "Google AI",
