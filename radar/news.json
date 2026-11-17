@@ -28,25 +28,11 @@
     "published": "Wed, 11 Nov 2026 09:00:00 +0000"
   },
   {
-    "source": "OpenAI",
-    "title": "ChatGPT Plus for veterans and servicemembers",
-    "summary": "More than 20,000 veterans and transitioning service members have claimed a free year of ChatGPT Plus. See how they use it to prepare for civilian careers.",
-    "link": "https://openai.com/index/chatgpt-plus-for-veterans",
-    "published": "Wed, 11 Nov 2026 08:00:00 GMT"
-  },
-  {
     "source": "Hugging Face",
     "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
     "summary": "",
     "link": "https://huggingface.co/blog/qvac/botpsy",
     "published": "Wed, 11 Nov 2026 05:01:16 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "JioStar’s chief architect on AI discovery at 500M-user scale",
-    "summary": "JioStar’s Vijay Seshadri explains AI discovery at 500M-user scale. Read his lessons on evals, guardrails, and taking AI into production.",
-    "link": "https://openai.com/index/jiostar-vijay-seshadri",
-    "published": "Wed, 11 Nov 2026 00:00:00 GMT"
   },
   {
     "source": "Hugging Face",
@@ -98,34 +84,6 @@
     "published": "Tue, 10 Nov 2026 13:00:00 +0000"
   },
   {
-    "source": "OpenAI",
-    "title": "Helping caregivers use AI in everyday life",
-    "summary": "OpenAI Academy is bringing free, hands-on ChatGPT workshops to caregivers in five U.S. cities, helping them build practical AI skills for everyday life.",
-    "link": "https://openai.com/index/helping-caregivers-use-ai-in-everyday-life",
-    "published": "Tue, 10 Nov 2026 12:00:00 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing Businesses in ChatGPT",
-    "summary": "Manage your business information, get insights about how your business shows up, and turn interest into action in ChatGPT.",
-    "link": "https://openai.com/index/introducing-businesses-chatgpt",
-    "published": "Tue, 10 Nov 2026 10:00:00 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Closing the AI guidance gap in education",
-    "summary": "New ThinkYoung research and lessons from OpenAI’s EMEA education partnerships on supporting teachers, AI literacy, and independent learning.",
-    "link": "https://openai.com/index/closing-ai-guidance-gap-education",
-    "published": "Tue, 10 Nov 2026 09:00:00 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Singapore Airlines elevates travel & work with OpenAI technology",
-    "summary": "Discover how Singapore Airlines uses OpenAI models and API to enhance customer support, travel discovery, and employee productivity, doubling CSAT for its Kris chatbot.",
-    "link": "https://openai.com/index/singapore-airlines-travel-work",
-    "published": "Tue, 10 Nov 2026 08:00:00 GMT"
-  },
-  {
     "source": "Hugging Face",
     "title": "Pay for Hugging Face Hub with your Google Cloud Account",
     "summary": "",
@@ -145,13 +103,6 @@
     "summary": "",
     "link": "https://huggingface.co/blog/ibm-research/palette-deck-building",
     "published": "Tue, 03 Nov 2026 16:35:36 GMT"
-  },
-  {
-    "source": "Hugging Face",
-    "title": "CWE-bench v2: More coverage, quality, and transparency",
-    "summary": "",
-    "link": "https://huggingface.co/blog/cwe-bench",
-    "published": "Tue, 03 Nov 2026 00:00:00 GMT"
   },
   {
     "source": "OpenAI",
@@ -180,27 +131,6 @@
     "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
     "link": "https://openai.com/business/customer-stories/gondola",
     "published": "Thu, 12 Nov 2026 12:00:00 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Holiday Extras is rethinking what it can build with Codex",
-    "summary": "With Codex, Holiday Extras is turning customer expertise into better apps, higher booking conversion and new possibilities for growth.",
-    "link": "https://openai.com/business/customer-stories/holidays-extras-codex",
-    "published": "Thu, 12 Nov 2026 09:30:00 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Supporting research on AI and children’s safety",
-    "summary": "OpenAI commits $2 million to research on AI and children’s safety. The work supports shared tools to measure risks and opportunities for young people.",
-    "link": "https://openai.com/index/children-first-declaration",
-    "published": "Thu, 12 Nov 2026 00:00:00 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Gilbert + Tobin rethinks the business of law with AI",
-    "summary": "A conversation with Sam Nickless, Partner and Chief Executive Officer at Gilbert + Tobin.",
-    "link": "https://openai.com/index/gilbert-tobin-sam-nickless",
-    "published": "Thu, 12 Nov 2026 00:00:00 GMT"
   },
   {
     "source": "Hugging Face",
@@ -239,17 +169,87 @@
   },
   {
     "source": "Google AI",
-    "title": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp\" />Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-    "published": "Mon, 28 Sep 2026 19:00:00 +0000"
-  },
-  {
-    "source": "Google AI",
     "title": "Our newest AI Quest: Mapping the human brain",
     "summary": "An illustration of a planet rotating to show various cartoon figures waving. At the top is the text \"AI Quests\"",
     "link": "https://blog.google/products-and-platforms/products/education/ai-quests-polar-peaks/",
     "published": "Mon, 26 Oct 2026 16:00:00 +0000"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Broadening access to AI for scientists",
+    "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
+    "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+    "published": "Mon, 16 Nov 2026 17:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
+    "link": "https://openai.com/index/strengthening-online-child-safety",
+    "published": "Mon, 16 Nov 2026 17:00:00 GMT"
+  },
+  {
+    "source": "Google AI",
+    "title": "New Ask Maps features to help with holiday travel and prep",
+    "summary": "tbd",
+    "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
+    "published": "Mon, 16 Nov 2026 14:00:00 +0000"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Science at the Frontier: How scientists use ChatGPT",
+    "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
+    "link": "https://openai.com/index/science-at-the-frontier",
+    "published": "Mon, 16 Nov 2026 12:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
+    "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
+    "link": "https://openai.com/index/lvmh-media-division-partnership",
+    "published": "Mon, 16 Nov 2026 09:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Our first phase of embedded assessments",
+    "summary": "OpenAI begins embedded assessments with Apollo Research, METR, and Transluce, and Goodfire to independently evaluate model alignment, safeguards, and monitoring systems.",
+    "link": "https://openai.com/index/our-first-phase-of-embedded-assessments",
+    "published": "Mon, 16 Nov 2026 08:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "summary": "",
+    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "published": "Mon, 16 Nov 2026 06:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "published": "Mon, 16 Nov 2026 06:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "The King’s Trust and OpenAI launch £1m partnership",
+    "summary": "The King’s Trust and OpenAI launch a £1m partnership to help up to 25,000 young people across the UK build practical AI skills for work.",
+    "link": "https://openai.com/index/the-kings-trust-and-openai",
+    "published": "Mon, 16 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "At Holiday Extras, dots get to work before anyone asks",
+    "summary": "Dots deliver launch reports unprompted, flag issues people might miss, and talk through upcoming meetings on the commute to work.",
+    "link": "https://openai.com/business/customer-stories/holiday-extras-dots",
+    "published": "Mon, 16 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face",
+    "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+    "summary": "",
+    "link": "https://huggingface.co/blog/openrouter",
+    "published": "Mon, 16 Nov 2026 00:00:00 GMT"
   },
   {
     "source": "Hugging Face",
