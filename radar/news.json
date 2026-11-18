@@ -56,6 +56,48 @@
     "published": "Wed, 04 Nov 2026 17:50:10 GMT"
   },
   {
+    "source": "OpenAI",
+    "title": "Introducing GPT-6.2 Astra and Sol",
+    "summary": "Introducing GPT‑6.2 Astra and Sol, with better professional outputs, coding, computer use, and efficiency at lower cost across ChatGPT Work, Codex, and the API.",
+    "link": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
+    "published": "Tue, 17 Nov 2026 17:45:00 GMT"
+  },
+  {
+    "source": "Google AI",
+    "title": "Put Gemini to work for you",
+    "summary": "A user interface displaying the prompt \"What can I get done for you?\" above an input box containing placeholder text \"Describe a task\".",
+    "link": "https://blog.google/innovation-and-ai/products/gemini-app/tasks-in-gemini-free-new-features/",
+    "published": "Tue, 17 Nov 2026 17:00:00 +0000"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing ChatGPT for Sales",
+    "summary": "Explore the new Sales plugin and 30+ new and expanded partner plugins in ChatGPT to research prospects, prepare pitches, update your CRM, and move deals forward.",
+    "link": "https://openai.com/index/introducing-chatgpt-for-sales",
+    "published": "Tue, 17 Nov 2026 08:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Strengthening NATO and allied cyber defenses with AI",
+    "summary": "How OpenAI is working with NATO and allied cyber agencies to help trusted defenders find vulnerabilities, test fixes and protect essential systems.",
+    "link": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+    "published": "Tue, 17 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Astra for Law leads in legal intelligence",
+    "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
+    "link": "https://openai.com/index/astra-law-6-2",
+    "published": "Tue, 17 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Introducing OpenAI for Chile",
+    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
+    "link": "https://openai.com/index/introducing-openai-for-chile",
+    "published": "Tue, 17 Nov 2026 00:00:00 GMT"
+  },
+  {
     "source": "Google AI",
     "title": "Gemini 4 Argon: Built to solve your hardest problems",
     "summary": "TBD",
@@ -105,13 +147,6 @@
     "published": "Tue, 03 Nov 2026 16:35:36 GMT"
   },
   {
-    "source": "OpenAI",
-    "title": "How Amplitude ships product improvements in 1–2 days with OpenAI",
-    "summary": "Built primarily on OpenAI models, Amplitude’s proactive product agent, Wave, identifies what to build, helps teams ship changes with coding agents, and measures the impact.",
-    "link": "https://openai.com/business/customer-stories/amplitude",
-    "published": "Thu, 12 Nov 2026 20:00:00 GMT"
-  },
-  {
     "source": "Hugging Face",
     "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
     "summary": "",
@@ -124,13 +159,6 @@
     "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
     "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
     "published": "Thu, 12 Nov 2026 18:00:00 +0000"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Gondola doubles revenue as its team builds more with Codex",
-    "summary": "Gondola helps creatives get credit and get hired, with Codex raising its lead engineer’s output by 50% and ChatGPT simplifying daily work.",
-    "link": "https://openai.com/business/customer-stories/gondola",
-    "published": "Thu, 12 Nov 2026 12:00:00 GMT"
   },
   {
     "source": "Hugging Face",
@@ -152,20 +180,6 @@
     "summary": "",
     "link": "https://huggingface.co/blog/phonon-tts",
     "published": "Thu, 05 Nov 2026 00:00:00 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "A step toward defining the Standard Model on a lattice",
-    "summary": "Explore a candidate nonperturbative lattice definition of the Standard Model and how GPT-6 Astra helped turn the idea into a detailed proof.",
-    "link": "https://openai.com/index/step-toward-defining-the-standard-model",
-    "published": "Sun, 15 Nov 2026 22:00:01 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Our new blog for science",
-    "summary": "The OpenAI science blog shares new findings, practical methods, and firsthand accounts from researchers using AI to advance scientific discovery.",
-    "link": "https://openai.com/index/our-new-blog-for-science",
-    "published": "Sun, 15 Nov 2026 22:00:00 GMT"
   },
   {
     "source": "Google AI",
@@ -204,6 +218,13 @@
   },
   {
     "source": "OpenAI",
+    "title": "How Revolut raises ambition without lowering the bar",
+    "summary": "Discover how Revolut uses OpenAI models and Codex to cut coding time by 30–60%, scale financial crime investigations, and innovate without compromising security.",
+    "link": "https://openai.com/business/customer-stories/revolut",
+    "published": "Mon, 16 Nov 2026 09:30:00 GMT"
+  },
+  {
+    "source": "OpenAI",
     "title": "LVMH’s Media Division announces strategic partnership with OpenAI",
     "summary": "LVMH’s Media Division and OpenAI announce a partnership to support journalism with AI and make its publications more accessible through ChatGPT.",
     "link": "https://openai.com/index/lvmh-media-division-partnership",
@@ -218,16 +239,16 @@
   },
   {
     "source": "OpenAI",
-    "title": "Advancing computer-use agents for healthcare teams",
-    "summary": "",
-    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+    "title": "More ways to move care forward with ChatGPT for Healthcare",
+    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
+    "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
     "published": "Mon, 16 Nov 2026 06:00:00 GMT"
   },
   {
     "source": "OpenAI",
-    "title": "More ways to move care forward with ChatGPT for Healthcare",
-    "summary": "Introducing computer-use agents, improved clinical answers, and new healthcare plugins that work across healthcare software to get real work done.",
-    "link": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+    "title": "Advancing computer-use agents for healthcare teams",
+    "summary": "",
+    "link": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
     "published": "Mon, 16 Nov 2026 06:00:00 GMT"
   },
   {
@@ -280,13 +301,6 @@
     "published": "Fri, 13 Nov 2026 17:02:35 GMT"
   },
   {
-    "source": "OpenAI",
-    "title": "Introducing ChatGPT Wallet",
-    "summary": "Introducing ChatGPT Wallet, a secure way for agents in ChatGPT Work, Codex, and dots to complete purchases with user approval and existing card protections.",
-    "link": "https://openai.com/index/introducing-chatgpt-wallet",
-    "published": "Fri, 13 Nov 2026 15:00:00 GMT"
-  },
-  {
     "source": "Hugging Face",
     "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
     "summary": "",
@@ -294,24 +308,10 @@
     "published": "Fri, 13 Nov 2026 14:05:22 GMT"
   },
   {
-    "source": "OpenAI",
-    "title": "Shield helps technicians hand off legacy portal work with OpenAI",
-    "summary": "Shield uses OpenAI to help IT technicians hand off work in legacy portals. Its Forge agents navigate systems so technicians can focus on issues needing their judgment.",
-    "link": "https://openai.com/business/customer-stories/shield",
-    "published": "Fri, 13 Nov 2026 08:00:00 GMT"
-  },
-  {
     "source": "Hugging Face",
     "title": "Egyptian and Nigerian English join the Open ASR Leaderboard",
     "summary": "",
     "link": "https://huggingface.co/blog/open-asr-leaderboard-liva",
     "published": "Fri, 06 Nov 2026 00:00:00 GMT"
-  },
-  {
-    "source": "Google AI",
-    "title": "The latest AI news we announced in September 2026",
-    "summary": "A video showing the September AI updates",
-    "link": "https://blog.google/innovation-and-ai/technology/ai/google-ai-updates-september-2026/",
-    "published": "Fri, 02 Oct 2026 15:00:00 +0000"
   }
 ]
