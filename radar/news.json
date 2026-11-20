@@ -1,12 +1,5 @@
 [
   {
-    "source": "Google AI",
-    "title": "Southeast Asia’s digital economy to hit $368 billion",
-    "summary": "Cover image for the e-Conomy SEA 2026 report titled Building the intelligent economy by Google, Temasek, and Bain and Company. A 3D illustration features a glowing yellow star surrounded by miniature scenes representing digital sectors, including data cen",
-    "link": "https://blog.google/company-news/inside-google/around-the-globe/google-asia/e-conomy-sea-report-2026/",
-    "published": "Wed, 21 Oct 2026 04:00:00 +0000"
-  },
-  {
     "source": "Hugging Face",
     "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
     "summary": "",
@@ -71,16 +64,16 @@
   },
   {
     "source": "OpenAI",
-    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+    "title": "Advancing chip design with OpenAI models",
+    "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
+    "link": "https://openai.com/index/advancing-chip-design-with-our-models",
     "published": "Wed, 18 Nov 2026 00:00:00 GMT"
   },
   {
     "source": "OpenAI",
-    "title": "Advancing chip design with OpenAI models",
-    "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
-    "link": "https://openai.com/index/advancing-chip-design-with-our-models",
+    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
+    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
     "published": "Wed, 18 Nov 2026 00:00:00 GMT"
   },
   {
@@ -161,27 +154,6 @@
     "published": "Tue, 17 Nov 2026 00:00:00 GMT"
   },
   {
-    "source": "OpenAI",
-    "title": "Astra for Law leads in legal intelligence",
-    "summary": "Astra for Law ranked first in a launch evaluation spanning 24 areas of law. Every ChatGPT Enterprise customer can now request access.",
-    "link": "https://openai.com/index/astra-law-6-2",
-    "published": "Tue, 17 Nov 2026 00:00:00 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Introducing OpenAI for Chile",
-    "summary": "OpenAI and the Government of Chile are partnering to support responsible AI adoption, build public-sector skills and help local startups develop AI applications.",
-    "link": "https://openai.com/index/introducing-openai-for-chile",
-    "published": "Tue, 17 Nov 2026 00:00:00 GMT"
-  },
-  {
-    "source": "Google AI",
-    "title": "Gemini 4 Argon: Built to solve your hardest problems",
-    "summary": "TBD",
-    "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-argon/",
-    "published": "Tue, 13 Oct 2026 16:00:00 +0000"
-  },
-  {
     "source": "Google AI",
     "title": "Gemini Intelligence: New features, on more devices",
     "summary": "A man speaks into a phone. Text on the screen reads 'Gemini Intelligence'",
@@ -215,6 +187,55 @@
     "summary": "",
     "link": "https://huggingface.co/blog/decision",
     "published": "Tue, 10 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Google AI",
+    "title": "Introducing Tool Retrieval in the Gemini API",
+    "summary": "Gemini spark on a space background",
+    "link": "https://blog.google/innovation-and-ai/technology/developers-tools/gemini-api-tool-retrieval/",
+    "published": "Thu, 19 Nov 2026 18:00:00 +0000"
+  },
+  {
+    "source": "Google AI",
+    "title": "Walter Isaacson on curiosity and creativity in the AI age.",
+    "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Dialogues.max-600x600.format-webp.webp\" />Walter Isaacson joins Google to discuss how history’s greatest innovators inspire creativity and human judgment in the AI age. Watch the episode.",
+    "link": "https://blog.google/innovation-and-ai/technology/ai/dialogues-walter-isaacson/",
+    "published": "Thu, 19 Nov 2026 17:00:00 +0000"
+  },
+  {
+    "source": "OpenAI",
+    "title": "How OpenAI’s Performance Factory keeps ChatGPT fast",
+    "summary": "Learn how OpenAI built the Performance Factory, a system of Codex-powered workflows that finds and fixes performance issues to help keep ChatGPT fast.",
+    "link": "https://openai.com/index/how-openai-performance-factory-keeps-chatgpt-fast",
+    "published": "Thu, 19 Nov 2026 08:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Deploying Daybreak Red",
+    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red",
+    "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "See PR scans in action",
+    "summary": "Watch a walkthrough of PR scans and see how the presenter reviews scan results in a pull request workflow.",
+    "link": "https://openai.com/business/learn/pr-scans-demo",
+    "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Explore the Codex Security Plugin",
+    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "published": "Thu, 19 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Get started with Daybreak Blue",
+    "summary": "Watch a walkthrough of onboarding to Daybreak Blue, with a closer look at the setup experience and how to get started.",
+    "link": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+    "published": "Thu, 19 Nov 2026 00:00:00 GMT"
   },
   {
     "source": "Hugging Face",
@@ -252,32 +273,11 @@
     "published": "Mon, 26 Oct 2026 16:00:00 +0000"
   },
   {
-    "source": "OpenAI",
-    "title": "Broadening access to AI for scientists",
-    "summary": "We’re expanding our ChatGPT for Academic Researchers program to offer 200,000 researchers worldwide free access to our frontier models.",
-    "link": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-    "published": "Mon, 16 Nov 2026 17:00:00 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Strengthening the fight against online child sexual abuse with new tools and support",
-    "summary": "New tools, practical guidance, and partnerships will help prevent, detect and respond to online child sexual exploitation and abuse.",
-    "link": "https://openai.com/index/strengthening-online-child-safety",
-    "published": "Mon, 16 Nov 2026 17:00:00 GMT"
-  },
-  {
     "source": "Google AI",
     "title": "New Ask Maps features to help with holiday travel and prep",
     "summary": "tbd",
     "link": "https://blog.google/products-and-platforms/products/maps/ask-maps-holiday-travel-features-2026/",
     "published": "Mon, 16 Nov 2026 14:00:00 +0000"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Science at the Frontier: How scientists use ChatGPT",
-    "summary": "Explore how more than 1,800 scientists use ChatGPT in research. See findings on daily workflows, reported productivity, and expectations for discovery.",
-    "link": "https://openai.com/index/science-at-the-frontier",
-    "published": "Mon, 16 Nov 2026 12:00:00 GMT"
   },
   {
     "source": "Hugging Face",
