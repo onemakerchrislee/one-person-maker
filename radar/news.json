@@ -36,16 +36,16 @@
   },
   {
     "source": "OpenAI",
-    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
-    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
-    "link": "https://openai.com/business/customer-stories/sumitomo-life",
+    "title": "Research acceleration: The jagged frontier",
+    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
+    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
     "published": "Wed, 18 Nov 2026 08:00:00 GMT"
   },
   {
     "source": "OpenAI",
-    "title": "Research acceleration: The jagged frontier",
-    "summary": "OpenAI measures how coding agents are accelerating AI research, where their performance remains uneven, and what this signals about recursive self-improvement.",
-    "link": "https://openai.com/index/research-acceleration-jagged-frontier",
+    "title": "How Sumitomo Life’s leaders helped teams adopt ChatGPT Enterprise",
+    "summary": "Sumitomo Life uses ChatGPT Enterprise to research insurers, prepare proposals, and draft code for investment analysis. Early use by executives helped drive adoption.",
+    "link": "https://openai.com/business/customer-stories/sumitomo-life",
     "published": "Wed, 18 Nov 2026 08:00:00 GMT"
   },
   {
@@ -67,13 +67,6 @@
     "title": "Advancing chip design with OpenAI models",
     "summary": "OpenAI models optimized circuits used in Jalapeño silicon and improved RISC‑V core designs, showing progress in AI-assisted chip design with GPT‑6 Astra.",
     "link": "https://openai.com/index/advancing-chip-design-with-our-models",
-    "published": "Wed, 18 Nov 2026 00:00:00 GMT"
-  },
-  {
-    "source": "OpenAI",
-    "title": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-    "summary": "Le Groupe Figaro and OpenAI partner to bring Le Figaro’s journalism to ChatGPT through summaries and excerpts, with links to original stories.",
-    "link": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
     "published": "Wed, 18 Nov 2026 00:00:00 GMT"
   },
   {
@@ -176,9 +169,9 @@
   },
   {
     "source": "OpenAI",
-    "title": "Explore the Codex Security Plugin",
-    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
-    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
+    "title": "Deploying Daybreak Red",
+    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
+    "link": "https://openai.com/business/learn/deploying-daybreak-red",
     "published": "Thu, 19 Nov 2026 00:00:00 GMT"
   },
   {
@@ -197,9 +190,9 @@
   },
   {
     "source": "OpenAI",
-    "title": "Deploying Daybreak Red",
-    "summary": "Explore a reference architecture for supervised security investigations with Daybreak Red, including safety controls, setup, and monitoring.",
-    "link": "https://openai.com/business/learn/deploying-daybreak-red",
+    "title": "Explore the Codex Security Plugin",
+    "summary": "Watch a demo of the Codex Security Plugin and see the workflow in action, from getting started to reviewing the results shown in the recording.",
+    "link": "https://openai.com/business/learn/codex-security-plugin-demo",
     "published": "Thu, 19 Nov 2026 00:00:00 GMT"
   },
   {
@@ -229,6 +222,13 @@
     "summary": "Text \"Gemini Introducing Gemini Omni 1.2 Flash\" surroudned by images of a beehive, animals in conversation, a squid, and a woman walking down a street",
     "link": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemini-omni-1-2-flash/",
     "published": "Thu, 05 Nov 2026 17:00:00 +0000"
+  },
+  {
+    "source": "OpenAI",
+    "title": "Perplexity and Intelligence",
+    "summary": "How perplexity measures progress in AI models, and why it could help developers establish a shared approach to evaluating emerging capabilities.",
+    "link": "https://openai.com/index/perplexity-and-intelligence",
+    "published": "Sun, 22 Nov 2026 00:00:00 GMT"
   },
   {
     "source": "Google AI",
