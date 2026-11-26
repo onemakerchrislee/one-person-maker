@@ -1,6 +1,27 @@
 [
   {
     "source": "Hugging Face",
+    "title": "Where scientists draw the line on AI agents",
+    "summary": "",
+    "link": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+    "published": "Wed, 25 Nov 2026 18:52:55 GMT"
+  },
+  {
+    "source": "Hugging Face",
+    "title": "An Indic Voice Agent with CUGA",
+    "summary": "",
+    "link": "https://huggingface.co/blog/ibm-research/an-indic-voice-agent-with-cuga",
+    "published": "Wed, 25 Nov 2026 10:22:09 GMT"
+  },
+  {
+    "source": "Hugging Face",
+    "title": "Hill-climbing Inkling 2 Mini inference on one RTX PRO 6000",
+    "summary": "",
+    "link": "https://huggingface.co/blog/inkling-2-mini-inference-hillclimb",
+    "published": "Wed, 25 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face",
     "title": "DaisyRose-27B: Pushing the Frontier of Post-Training Efficiency",
     "summary": "",
     "link": "https://huggingface.co/blog/RadixArk/daisyrose-27b-pushing-the-frontier-of-post-trainin",
@@ -19,13 +40,6 @@
     "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Gemini_app_Android_social_share.max-600x600.format-webp.webp\" />The Google Gemini app now supports lower-memory Android devices. Access Gemini Live and custom image creation on your phone. Download the app today.",
     "link": "https://blog.google/innovation-and-ai/products/gemini-app/gemini-lower-memory-devices/",
     "published": "Wed, 18 Nov 2026 17:00:00 +0000"
-  },
-  {
-    "source": "Hugging Face",
-    "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
-    "summary": "",
-    "link": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
-    "published": "Wed, 18 Nov 2026 15:00:23 GMT"
   },
   {
     "source": "Hugging Face",
@@ -61,13 +75,6 @@
     "summary": "A portrait of Dr Nontobeko Ntombela, Senior Lecturer, Department of Curatorial, Public and Visual Cultures, Wits School of Arts, University of the Witwatersrand",
     "link": "https://blog.google/company-news/outreach-and-initiatives/arts-culture/esther-mahlangu/",
     "published": "Wed, 11 Nov 2026 09:00:00 +0000"
-  },
-  {
-    "source": "Hugging Face",
-    "title": "BotPsy: On-Device Personal Assistant with a Sub-Billion-Parameter Agentic Language Model",
-    "summary": "",
-    "link": "https://huggingface.co/blog/qvac/botpsy",
-    "published": "Wed, 11 Nov 2026 05:01:16 GMT"
   },
   {
     "source": "Hugging Face",
@@ -222,13 +229,6 @@
     "summary": "OpenAI and Cisco introduce Shirudo, an open-source runtime for Linux. It helps teams protect running systems while they roll out patches.",
     "link": "https://openai.com/index/introducing-shirudo",
     "published": "Mon, 23 Nov 2026 21:20:00 GMT"
-  },
-  {
-    "source": "Hugging Face",
-    "title": "RoboTrack: Point tracking for real-world robotic manipulation",
-    "summary": "",
-    "link": "https://huggingface.co/blog/allenai/robotrack",
-    "published": "Mon, 23 Nov 2026 17:20:37 GMT"
   },
   {
     "source": "Google AI",
