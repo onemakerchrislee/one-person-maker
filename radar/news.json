@@ -77,13 +77,6 @@
     "published": "Wed, 11 Nov 2026 09:00:00 +0000"
   },
   {
-    "source": "Hugging Face",
-    "title": "Microduck Obstacle Avoidance: A Sim2Real Workflow with Isaac Lab and Newton",
-    "summary": "",
-    "link": "https://huggingface.co/blog/nvidia/microduck-obstacle-avoidance",
-    "published": "Tue, 24 Nov 2026 16:34:13 GMT"
-  },
-  {
     "source": "Google AI",
     "title": "How Gemini is changing the game for Golden State's organization and fans.",
     "summary": "<img src=\"https://storage.googleapis.com/gweb-uniblog-publish-prod/images/Google_Gemini_1.max-600x600.format-webp.webp\" />Google Gemini partners with Golden State to power fan experiences and business operations for the Warriors, Valkyries, and Chase Center. See the news.",
@@ -154,6 +147,27 @@
     "published": "Tue, 10 Nov 2026 13:00:00 +0000"
   },
   {
+    "source": "Hugging Face",
+    "title": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+    "summary": "",
+    "link": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+    "published": "Thu, 26 Nov 2026 11:37:17 GMT"
+  },
+  {
+    "source": "Hugging Face",
+    "title": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+    "summary": "",
+    "link": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+    "published": "Thu, 26 Nov 2026 05:05:36 GMT"
+  },
+  {
+    "source": "Hugging Face",
+    "title": "Swarms, Flocks, Gangs: How to build, train, and evaluate multi-agent systems",
+    "summary": "",
+    "link": "https://huggingface.co/blog/training-swarms",
+    "published": "Thu, 26 Nov 2026 00:00:00 GMT"
+  },
+  {
     "source": "Google AI",
     "title": "Introducing Tool Retrieval in the Gemini API",
     "summary": "Gemini spark on a space background",
@@ -201,13 +215,6 @@
     "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
     "link": "https://blog.google/products-and-platforms/products/search/gemini-4-hydrogen-search-upgrade/",
     "published": "Thu, 12 Nov 2026 18:00:00 +0000"
-  },
-  {
-    "source": "Hugging Face",
-    "title": "The Definitive Fine-Tuning Guide for 3D Generation Models",
-    "summary": "",
-    "link": "https://huggingface.co/blog/3d-lora-finetuning",
-    "published": "Thu, 12 Nov 2026 00:00:00 GMT"
   },
   {
     "source": "Google AI",
@@ -306,12 +313,5 @@
     "summary": "",
     "link": "https://huggingface.co/blog/harness-adapters-at-scale",
     "published": "Fri, 20 Nov 2026 00:00:00 GMT"
-  },
-  {
-    "source": "Hugging Face",
-    "title": "llama.cpp v1.0.0 : A stronger foundation for the local AI ecosystem",
-    "summary": "",
-    "link": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
-    "published": "Fri, 13 Nov 2026 14:05:22 GMT"
   }
 ]
