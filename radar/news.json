@@ -203,13 +203,6 @@
     "published": "Thu, 19 Nov 2026 00:00:00 GMT"
   },
   {
-    "source": "Hugging Face",
-    "title": "LLMON: An LLM-Native Markup Language, now in Granite 4.1 3B and 8B",
-    "summary": "",
-    "link": "https://huggingface.co/blog/ibm-granite/llmon-an-llm-native-markup-language-now-in-granite",
-    "published": "Thu, 12 Nov 2026 19:07:35 GMT"
-  },
-  {
     "source": "Google AI",
     "title": "Google Search gets a major upgrade with Gemini 4 Hydrogen",
     "summary": "Rotating carousel of cards with text \"Gemini 4 Hydrogen\" \"Now in Google Search\" and examples from the Google Search UI",
@@ -278,6 +271,13 @@
     "summary": "",
     "link": "https://huggingface.co/blog/openrouter",
     "published": "Mon, 16 Nov 2026 00:00:00 GMT"
+  },
+  {
+    "source": "Hugging Face",
+    "title": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
+    "summary": "",
+    "link": "https://huggingface.co/blog/video-trainium3",
+    "published": "Fri, 27 Nov 2026 00:00:00 GMT"
   },
   {
     "source": "OpenAI",
